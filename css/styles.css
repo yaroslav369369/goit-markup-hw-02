@@ -80,6 +80,12 @@ a {
         background-color: #4d5ae5
 }
 
+.order-btn:hover,
+.order-btn:focus {
+    background-color: #404BBF;
+    cursor: pointer;
+}
+
 
 
 /* footer*/
