@@ -11,7 +11,7 @@ ol, ul {
 a {
     text-decoration: none;
 }
-
+/* header */
 .logo {
     font-family: "Raleway", sans-serif;
         font-weight: 700;
@@ -57,6 +57,32 @@ a {
     color: #404bbf;
 }
 
+/* main */
+.main {
+    background-color: #2e2f42;
+}
+
+.main-title {    
+        font-weight: 700;
+        font-size: 56px;
+        line-height: 1.07;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #fff;
+}
+
+.order-btn {    
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        color: #fff;
+        background-color: #4d5ae5
+}
+
+
+
+/* footer*/
 .page-footer {
     background-color: #2e2f42;;
 }
