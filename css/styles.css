@@ -11,14 +11,14 @@ ol, ul {
 a {
     text-decoration: none;
 }
-h2 {    
+/* h2 {    
         font-weight: 700;
         font-size: 36px;
         line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
-}
+} */
 /* h3 {    
         font-weight: 500;
         font-size: 20px;
@@ -73,6 +73,14 @@ h2 {
 }
 
 /* main */
+.secondary-title {    
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #2e2f42;
+}
 /* section one */
 .main {
     background-color: #2e2f42;
@@ -105,7 +113,7 @@ h2 {
 
 
 
-.Values p {    
+.text-content {    
         font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
@@ -113,13 +121,44 @@ h2 {
         color: #434455;
 }
 
-.Values h3 {    
+.subtitles {    
         font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
         letter-spacing: 0.02em;
         color: #2e2f42;
 }
+
+/* section three */
+.team {
+    background-color: #f4f4fd;    
+}
+.text-team {    
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #434455;
+}
+.subtitles-team {    
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #2e2f42;
+}
+.secondary-title {    
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 1.11;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #2e2f42;
+}
+
+
 
 /* footer*/
 .page-footer {
