@@ -19,13 +19,13 @@ h2 {
         text-align: center;
         color: #2e2f42;
 }
-h3 {    
+/* h3 {    
         font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
         letter-spacing: 0.02em;
         color: #2e2f42;
-}
+} */
 /* header */
 .logo {
     font-family: "Raleway", sans-serif;
@@ -102,6 +102,9 @@ h3 {
     cursor: pointer;
 }
 /* section two */
+
+
+
 .text-values {    
         font-weight: 400;
         font-size: 16px;
@@ -110,7 +113,13 @@ h3 {
         color: #434455;
 }
 
-
+.value-title {    
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
 
 /* footer*/
 .page-footer {
