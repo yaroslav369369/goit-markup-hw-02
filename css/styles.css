@@ -133,6 +133,9 @@ a {
 .team {
     background-color: #f4f4fd;    
 }
+.container-values {
+    background-color: #fff;
+}
 .text-team {    
         font-weight: 400;
         font-size: 16px;
