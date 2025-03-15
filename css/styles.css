@@ -105,7 +105,7 @@ h2 {
 
 
 
-.text-values {    
+.Values p {    
         font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
@@ -113,7 +113,7 @@ h2 {
         color: #434455;
 }
 
-.value-title {    
+.Values h3 {    
         font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
